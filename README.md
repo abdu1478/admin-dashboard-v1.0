@@ -71,7 +71,7 @@ admin-dashboard/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/admin-dashboard.git
+git https://github.com/abdu1478/admin-dashboard-v1.0.git
 cd admin-dashboard
 ```
 
